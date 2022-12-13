@@ -1,0 +1,8 @@
+This is my project on classification using machine learning methodologies.
+
+How to run the dataset:
+The dataset is in a csv file, and should run in the notebooks as long as they are in the same directory.
+
+How to run the notebooks:
+The notebooks are all coded in chronological order. Run from top down to get desired results.
+
